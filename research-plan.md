@@ -26,31 +26,31 @@
 
 ## 4. Comparison / control
 
-What are you comparing to? How will you isolate the effect of
-interest? (e.g., "We'll compare wind farm capacity factors in Scotland
-vs Southern England, controlling for turbine age.")
+> What are you comparing to? How will you isolate the effect of
+> interest? (e.g., "We'll compare wind farm capacity factors in Scotland
+? vs Southern England, controlling for turbine age.")
 
 
 
 ## 5. Potential confounders
 
-What alternative explanations should you worry about? List at least
-two confounders and describe how you'll address (or at least
-acknowledge) them.
+> What alternative explanations should you worry about? List at least
+> two confounders and describe how you'll address (or at least
+> acknowledge) them.
 
 
 
 ## 6. Analysis plan
 
-What sort of patterns or relationships do you anticipate testing?
-Describe these in qualitative terms for now: we'll meet
-quantitative tests in Weeks 6–8.
+> What sort of patterns or relationships do you anticipate testing?
+> Describe these in qualitative terms for now: we'll meet
+> quantitative tests in Weeks 6–8.
 
 
 
 ## 7. Division of labour
 
-Who's doing what this week and next? Be specific.
+> Who's doing what this week and next? Be specific.
 
 | Team member | Task this week | Task next week |
 |-------------|----------------|----------------|
