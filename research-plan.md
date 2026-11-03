@@ -28,7 +28,7 @@
 
 > What are you comparing to? How will you isolate the effect of
 > interest? (e.g., "We'll compare wind farm capacity factors in Scotland
-? vs Southern England, controlling for turbine age.")
+> vs Southern England, controlling for turbine age.")
 
 
 
