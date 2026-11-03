@@ -6,19 +6,15 @@ Part of #{{PARENT}}, the research plan.
 
 Write **§4 Comparison / control** in [`research-plan.md`]({{PLAN}}):
 
-> What are you comparing to? How will you isolate the effect of
-> interest? (e.g., "We'll compare wind farm capacity factors in Scotland
-> vs Southern England, controlling for turbine age.")
+> What are you comparing to? How will you isolate the effect of interest? (e.g., "We'll compare wind farm capacity factors in Scotland vs Southern England, controlling for turbine age.")
 
 ## Steps
 
 - [ ] Assign yourself: **Assignees** in the right-hand sidebar.
-- [ ] In GitHub Desktop, choose **Current Branch → New Branch** and name
-      it `plan-comparison`.
+- [ ] In GitHub Desktop, choose **Current Branch → New Branch** and name it `plan-comparison`.
 - [ ] Write §4, then commit with a message that says what you did.
 - [ ] Click **Push origin**, then **Create Pull Request**.
-- [ ] In the pull request's description, write `Closes #{{SELF}}`. This
-      links the pull request to this issue, and merging it closes the issue.
+- [ ] In the pull request's description, write `Closes #{{SELF}}`. This links the pull request to this issue, and merging it closes the issue.
 - [ ] Ask a teammate to review it. They approve it or request changes.
 - [ ] Once it's approved, merge.
 
