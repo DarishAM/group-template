@@ -18,9 +18,9 @@ jobs:
     # so later pushes cost no Actions minutes. Run by hand from the Actions
     # tab if that push didn't trigger it: the script won't make duplicates.
     if: ${{ !github.event.repository.is_template && (github.event_name == 'workflow_dispatch' || github.event.created) }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - run: bash .github/plan-issues/create-issues.sh
         env:
           GH_TOKEN: ${{ github.token }}
