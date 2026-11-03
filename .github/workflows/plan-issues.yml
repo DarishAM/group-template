@@ -1,0 +1,26 @@
+# Opens a "Research plan" issue, with one sub-issue per section of
+# research-plan.md, when a group's repo is created from this template.
+# Issue texts are in .github/plan-issues/.
+name: Research plan issues
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  issues:
+    # Not in the template itself; only on the push that creates the repo,
+    # so later pushes cost no Actions minutes. Run by hand from the Actions
+    # tab if that push didn't trigger it: the script won't make duplicates.
+    if: ${{ !github.event.repository.is_template && (github.event_name == 'workflow_dispatch' || github.event.created) }}
+    runs-on: ubuntu-slim
+    steps:
+      - uses: actions/checkout@v7
+      - run: bash .github/plan-issues/create-issues.sh
+        env:
+          GH_TOKEN: ${{ github.token }}
