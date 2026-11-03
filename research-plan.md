@@ -1,31 +1,26 @@
 # Research Plan
 
-**Group members:**
-
 **Topic:**
-
-**Date:**
 
 ---
 
 ## 1. Research question
 
-What are you investigating? (One sentence.)
+> What are you investigating? (One sentence.)
 
 
 
-## 2. Hypothesis
+## 2. Testable hypothesis
 
-What do you expect to find, and why? What's your prior expectation —
-is the effect plausible or a long shot?
+> What do you expect to find, and why? What's your prior expectation:
+> is the effect plausible or a long shot?
 
 
 
 ## 3. Data sources
 
-Where will your data come from? What variables will you use? What time
-period does it cover? Have you downloaded the data and checked you can
-open it in R?
+> Where will your data come from? What variables will you use? What time
+> period does it cover? Can you download the data and open it in R?
 
 
 
@@ -47,9 +42,9 @@ acknowledge) them.
 
 ## 6. Analysis plan
 
-What statistical tools do you anticipate using? (Descriptive stats,
-t-tests, ANOVA, regression.) Link each tool to what you've learned or
-what's coming in Weeks 6–8.
+What sort of patterns or relationships do you anticipate testing?
+Describe these in qualitative terms for now: we'll meet
+quantitative tests in Weeks 6–8.
 
 
 
@@ -58,8 +53,8 @@ what's coming in Weeks 6–8.
 Who's doing what this week and next? Be specific.
 
 | Team member | Task this week | Task next week |
-|-------------|---------------|----------------|
-| | | |
-| | | |
-| | | |
-| | | |
+|-------------|----------------|----------------|
+|             |                |                |
+|             |                |                |
+|             |                |                |
+|             |                |                |
