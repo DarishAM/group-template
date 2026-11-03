@@ -1,8 +1,8 @@
-# Research Methods — Group Project Repo
+# Research Methods | Group Project Repo
 
-This is your group's shared repository for Phase 2 of the Research
-Methods module (Weeks 5–10). Use it to collaborate on data collection,
-analysis, and your research plan.
+This is your group's shared repository for Phase 2 of the [Research
+Methods](https://geol-skills.github.io/) module (Weeks 5–10).
+Use it to collaborate on data collection, analysis, and your research plan.
 
 **Individual reports go in your personal repo, not here.** This repo
 is for shared work: data, exploratory code, and your research plan.
@@ -28,10 +28,9 @@ is for shared work: data, exploratory code, and your research plan.
 ## Git workflow for group work
 
 - **Create a branch** for each piece of work (e.g.
-  `explore-wind-data`, `add-t-test-analysis`).
+  `explore-wind-data`, `add-correlation-analysis`).
 - **Push your branch** and open a Pull Request on GitHub.
-- **A teammate reviews** and merges. Don't merge your own PRs unless
-  the team agrees.
+- **A teammate reviews** and merges. Don't merge your own PRs.
 - If Git complains about conflicts, check the
   [Git troubleshooting guide](https://geol-methods.github.io/materials/git-troubleshooting.html).
 
@@ -41,7 +40,3 @@ Put your project datasets in the `data/` folder. Include a brief note
 in this README (or a `data/README.md`) describing each file: what it
 contains, where it came from, and when you downloaded it.
 
-## Course site
-
-All exercises, hints, and solutions:
-**[geol-methods.github.io](https://geol-methods.github.io/)**
