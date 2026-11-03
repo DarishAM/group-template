@@ -47,14 +47,3 @@
 > quantitative tests in Weeks 6–8.
 
 
-
-## 7. Division of labour
-
-> Who's doing what this week and next? Be specific.
-
-| Team member | Task this week | Task next week |
-|-------------|----------------|----------------|
-|             |                |                |
-|             |                |                |
-|             |                |                |
-|             |                |                |
