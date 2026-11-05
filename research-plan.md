@@ -20,7 +20,8 @@
 ## 3. Data sources
 
 > Where will your data come from? What variables will you use? What time
-> period does it cover? Can you download the data and open it in R?
+> period does it cover? Can you download the data in an R-friendly format
+> (ideally a CSV or Excel file)?
 
 
 
