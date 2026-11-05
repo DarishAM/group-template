@@ -6,7 +6,7 @@ practice of the group Git workflow.
 
 |     Name     | GitHub username | Role / focus area |
 |--------------|-----------------|-------------------|
-|              |                 |                   |
-|              |                 |                   |
+|   Darish     | DarishAM        |      Not yet decided             |
+|           |                 |                   |
 |              |                 |                   |
 |              |                 |                   |
