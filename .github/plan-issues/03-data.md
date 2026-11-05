@@ -22,4 +22,4 @@ Write **§3 Data sources** in [`research-plan.md`]({{PLAN}}):
 
 - [ ] Each data source is named and linked.
 - [ ] §3 lists the variables you'll use and the period they cover.
-- [ ] Someone has downloaded the data and opened it in R.
+- [ ] Someone has downloaded and viewed the data.
